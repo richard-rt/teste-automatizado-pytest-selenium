@@ -9,5 +9,6 @@
 3. Separação da responsabilidade
 
 ### Resultado do teste
-![img.png](img.png)
+
+
 
